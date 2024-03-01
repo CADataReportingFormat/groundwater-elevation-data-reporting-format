@@ -141,4 +141,3 @@
 |**Definition**|General description or other notes associated with groundwater level measurement.|
 |**Required/Optional**|Optional|
 |**Unit/Format**|N/A|
-

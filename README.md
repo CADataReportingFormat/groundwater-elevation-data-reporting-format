@@ -7,20 +7,20 @@ This GitHub repository provides a preliminary standardized reporting format for 
 Access to the data reporting formats documentation and files are provided through this [GitHub](https://github.com/cadwr/groundwater-elevation-data-reporting-format) repository. 
 
 ## Quickstart Guide
-  1. **Read** the [GitBook](https://jacobs.gitbook.io/dwr-data-reporting-formats-1/) site and [Project Overview](/Project_Overview.md)
-  3. **Download** the latest version of the data reporting format and cross-walk tables:
+  1. **Read** the [Project Wiki](https://github.com/cadwr/groundwater-elevation-data-reporting-format/wiki) and [Project Overview](/Project_Overview.md)
+  3. **Download** the latest version of the data reporting format and crosswalk tables:
      * [Groundwater Elevation Formats](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Proposed_GWE_Data_Format_Table_v2.0.0.docx)
-     * [Groundwater Elevation Cross-Walk](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/GWE_XWalk_Table_v2.0.0.docx)
+     * [Groundwater Elevation Crosswalk](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/GWE_XWalk_Table_v2.0.0.docx)
      * [Well Characteristics Formats](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Proposed_Well_Characteristics_Data_Format_Table_v2.0.0.docx)
-     * [Well Characteristics Cross-Walk](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Well_Characteristics_XWalk_Table_v2.0.0.docx)  
+     * [Well Characteristics Crosswalk](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Well_Characteristics_XWalk_Table_v2.0.0.docx)  
   3. **Review** relevant terminology for the [Groundwater Elevation](/GWE_Terminology.md) and [Well Charactersitics](/Well_Characteristics_Terminology.md) data reporting formats
-  4. **Review** the [Change Log](/ChangeLog.md) to review any updates made to the data reporting formats and cross-walk table through time.
+  4. **Review** the [Change Log](/ChangeLog.md) to review any updates made to the data reporting formats and crosswalk table through time.
 
 ## How to contribute
 Contributions to the data reporting formats can be made through the submission of a [GitHub issue](https://github.com/cadwr/groundwater-elevation-data-reporting-format/issues) using one of the provided templates. Questions or contributions to the data reporting formats can also be made through email by sending an email to ab1755@water.ca.gov.
 
 ## Funding and acknowledgments
-Funding for the development of data reporting formats and cross-walk tables has been provided in full or in part from the Budget Act of 2022 and through an agreement with the State.
+Funding for the development of data reporting formats and crosswalk tables has been provided in full or in part from the Budget Act of 2022 and through an agreement with the State.
 
 ## References
 Goldman A E ; Ren H ; Torgeson J ; Zhou H (2021): ESS-DIVE Reporting Format for Hydrologic Monitoring Data and Metadata. Environmental Systems Science Data Infrastructure for a Virtual Ecosystem (ESS-DIVE). doi:10.15485/1822940

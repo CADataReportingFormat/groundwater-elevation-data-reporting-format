@@ -4,8 +4,6 @@
 An accessible open-source water accounting platform that integrates consistent, high-quality data from a variety of sources and effectively communicates this information to support local, regional, and state water management decisions.
 
 ## How did we get here?
-![**Project Timeline**](./images/ProjectTimeline.png)
-
 The California Water Data Consortium, in partnership with Environmental Defense Fund, the Department of Water Resources (DWR), and the State Water Resources Control Board (SWRCB) are developing functional groundwater data reporting formats to reduce local agency reporting burdens and challenges, inform regulatory decisions by consolidating existing reporting datasets, increase data quality and consistency, and support local agency compliance with Sustainable Groundwater Management Act (SGMA) regulations in the State of California (State).
 
 Individuals representing a range of local agencies and reporting programs have been engaged to share experiences and recommendations because it is essential to us that any proposed data reporting formats are useful to the local agencies for their State data reporting requirements. During our engagement with you, we have held numerous meetings including three key working group meetings (June 2022, September 2022, March 2023) where we have collected valuable feedback on:

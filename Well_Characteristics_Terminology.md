@@ -281,4 +281,3 @@
 |**Definition**|Any additional comments concerning well characteristics.|
 |**Required/Optional**|Optional|
 |**Unit/Format**|N/A|
-

@@ -29,6 +29,10 @@ Use the following links to download v2.0.0 word documents:
 
 [Well Characteristics Cross-Walk Table - with Track Changes](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Well_Characteristics_XWalk_Table_v2.0.0_TrackChanges.docx)
 
+A spreadsheet containing all of the feedback received on v1.0.0 and the associated response to comments are contained in the following spreadsheet:
+
+[Data Reporting Formats v1.0.0 Feedback Tracking Spreadsheet](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Data_Reporting_Formats_Feedback_v1.0.0_Tracking.xlsx)
+
 ### Groundwater Elevation Feedback Themes
  - Positive feedback on what attributes are included and required/optional fields
  - Additional clarifications needed on the purpose of the crosswalk and reporting format
@@ -36,7 +40,6 @@ Use the following links to download v2.0.0 word documents:
  - Varying opinions on what elevations should be included each time a measurement is reported
  - Need for standardizing elevation datums
  - Varying opinions on what attributes should or should not be included in the reporting format – elevations and calculated fields
-
 
 ### Well Characteristics Feedback Themes
 - Highlighted issues and inconsistencies in current well IDs used across programs​
@@ -46,7 +49,6 @@ Use the following links to download v2.0.0 word documents:
 - Need for standardizing coordinate system and vertical datum​
 - Allow users to provide notes when options such as “Other” or “Unknown” are selected (include conditional notes fields)​
 - Language modified to improve clarity
-
 
 ## v1.0.0
 The v1.0.0 data reporting formats and cross-walk tables were published for feedback from the Technical Working Group on March 27th, 2023. For this reason, the changelog for v1.0.0 is left blank.

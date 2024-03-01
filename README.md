@@ -9,10 +9,10 @@ Access to the data reporting formats documentation and files are provided throug
 ## Quickstart Guide
   1. **Read** the [Project Wiki](https://github.com/cadwr/groundwater-elevation-data-reporting-format/wiki) and [Project Overview](/Project_Overview.md)
   3. **Download** the latest version of the data reporting format and crosswalk tables:
-     * [Groundwater Elevation Formats](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Proposed_GWE_Data_Format_Table_v2.0.0.docx)
-     * [Groundwater Elevation Crosswalk](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/GWE_XWalk_Table_v2.0.0.docx)
-     * [Well Characteristics Formats](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Proposed_Well_Characteristics_Data_Format_Table_v2.0.0.docx)
-     * [Well Characteristics Crosswalk](https://github.com/cadwr/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Well_Characteristics_XWalk_Table_v2.0.0.docx)  
+     * [Groundwater Elevation Formats](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/blob/eabe8b4596007faeedd19bea958d4d50b8b91c71/WordDocs/Proposed_GWE_Data_Format_Table_v2.0.0.docx)
+     * [Groundwater Elevation Crosswalk](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/blob/eabe8b4596007faeedd19bea958d4d50b8b91c71/WordDocs/GWE_XWalk_Table_v2.0.0.docx)
+     * [Well Characteristics Formats](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/blob/eabe8b4596007faeedd19bea958d4d50b8b91c71/WordDocs/Proposed_Well_Characteristics_Data_Format_Table_v2.0.0.docx)
+     * [Well Characteristics Crosswalk](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/blob/eabe8b4596007faeedd19bea958d4d50b8b91c71/WordDocs/Well_Characteristics_XWalk_Table_v2.0.0.docx)  
   3. **Review** relevant terminology for the [Groundwater Elevation](/GWE_Terminology.md) and [Well Charactersitics](/Well_Characteristics_Terminology.md) data reporting formats
   4. **Review** the [Change Log](/ChangeLog.md) to review any updates made to the data reporting formats and crosswalk table through time.
 

@@ -17,7 +17,7 @@ Access to the data reporting formats documentation and files are provided throug
   4. **Review** the [Change Log](/ChangeLog.md) to review any updates made to the data reporting formats and crosswalk table through time.
 
 ## How to contribute
-Contributions to the data reporting formats can be made through the submission of a [GitHub issue](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/issues) using one of the provided templates. Questions or contributions to the data reporting formats can also be made through email by sending an email to ab1755@water.ca.gov. Please set the subject line of any emails on this topic to the following: “Data Reporting Formats and Crosswalks”.
+Contributions to the data reporting formats can be made through the submission of a [GitHub issue](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/issues) using one of the provided templates. Questions or contributions to the data reporting formats can also be made through email by sending an email to ab1755@water.ca.gov. Please set the subject line of any emails on this topic to the following: “Feedback on Groundwater Elevation and Well Characteristics Data Reporting Formats and Crosswalks”.
 
 
 ## Funding and acknowledgments

@@ -19,13 +19,13 @@ Use the following links to download v2.0.0 word documents:
 
 Word document versions containing tracked changes between v2.0.0 and v2.1.0 based on the feedback received from the technical working group can be downloaded from the following links:
 
-[Groundwater Elevation Data Reporting Format - with Track Changes]()
+[Groundwater Elevation Data Reporting Format - with Track Changes](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Proposed_GWE_Data_Format_Table_v2.1.0_TrackChanges.docx)
 
-[Groundwater Elevation Cross-Walk Table - with Track Changes]()
+[Groundwater Elevation Cross-Walk Table - with Track Changes](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/GWE_XWalk_Table_v2.1.0_TrackChanges.docx)
 
-[Well Characteristics Data Reporting Format - with Track Changes]()
+[Well Characteristics Data Reporting Format - with Track Changes](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Proposed_Well_Characteristics_Data_Format_Table_v2.1.0_TrackChanges.docx)
 
-[Well Characteristics Cross-Walk Table - with Track Changes]()
+[Well Characteristics Cross-Walk Table - with Track Changes](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Well_Characteristics_XWalk_Table_v2.1.0_TrackChanges.docx)
 
 ### Changes made to Groundwater Elevation Data Reporting Format:
 - The attribute Water Surface Elevation was changed to Groundwater Elevation to differentiate from other data types that utilize the term water surface elevation and to better align with SGMA and CASGEM requirements.
@@ -101,5 +101,6 @@ Use the following links to download v1.0.0 word documents:
 [Well Characteristics Data Reporting Format](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Proposed_Well_Characteristics_Data_Format_Table_v1.0.0.docx)
 
 [Well Characteristics Cross-Walk Table](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Well_Characteristics_XWalk_Table_v1.0.0.docx)
+
 
 

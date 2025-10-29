@@ -29,11 +29,16 @@ Word document versions containing tracked changes between v2.0.0 and v2.1.0 base
 
 ### Changes made to Groundwater Elevation Data Reporting Format:
 - The attribute Water Surface Elevation was changed to Groundwater Elevation to differentiate from other data types that utilize the term water surface elevation and to better align with SGMA and CASGEM requirements.
+- Changed the Measurement Time attribute to be a required attribute and removed the seconds from the reporting format.
 
-### Changes made to Groundwater Elevation Data Reporting Format:
+### Changes made to Well Characteristics Data Reporting Format:
 - Added new attribute called Survey Type which is intended to capture what type of survey is being conducted for the survey information being reported.
 - Changed the Ground Surface Elevation attribute to be required to better align with SGMA and CASGEM requirements.
-- Added SGMA and CASGEM as programs that require reporting for the Elevation Survey Date attribute.
+- Added SGMA and CASGEM as programs that require reporting for the Elevation Survey Date, Elevation Accuracy, Elevation Surveyor Name, Well Completion Report Number, Well Location Description, and Additional Comments attributes.
+
+### Changes made to Groundwater Elevation Cross-Walk Table:
+- The attribute Water Surface Elevation was changed to Groundwater Elevation to differentiate from other data types that utilize the term water surface elevation and to better align with SGMA and CASGEM requirements.
+- Defined equivalent attribute for the Reporting Agency, Elevation Survey Date, Elevation Accuracy attributes for the SGMA and CASGEM programs.
 
 ### Changes made to Well Characteristics Cross-Walk Table:
 - Updated list of options for the Coordinate Accuracy attribute under the SGMA program.
@@ -96,4 +101,5 @@ Use the following links to download v1.0.0 word documents:
 [Well Characteristics Data Reporting Format](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Proposed_Well_Characteristics_Data_Format_Table_v1.0.0.docx)
 
 [Well Characteristics Cross-Walk Table](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Well_Characteristics_XWalk_Table_v1.0.0.docx)
+
 

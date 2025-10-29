@@ -55,8 +55,8 @@
 |**Attribute Name**|Measurement Time|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Definition**|Time groundwater level measurement was taken.|
-|**Required/Optional**|Optional; default is 12:00:00|
-|**Unit/Format**|hh:mm:ss (PST 24-hour)|
+|**Required/Optional**|Required; default is 12:00|
+|**Unit/Format**|hh:mm (PST 24-hour)|
 
 ### Reading at Reference Point (RRP)
 |**Attribute Name**|Reading at Reference Point (RRP)|
@@ -72,10 +72,10 @@
 |**Required/Optional**|Optional; default is 0.00|
 |**Unit/Format**|feet|
 
-### Water Surface Elevation (WSE)
-|**Attribute Name**|Water Surface Elevation (WSE)|
+### Groundwater Elevation (GWE)
+|**Attribute Name**|Groundwater Elevation (GWE)|
 |:----------------------------------------------------|:----------------------------------------------------|
-|**Definition**|Calculated water surface elevation.|
+|**Definition**|Calculated groundwater elevation.|
 |**Required/Optional**|Optional|
 |**Unit/Format**|feet; default in NAVD88|
 
@@ -141,3 +141,4 @@
 |**Definition**|General description or other notes associated with groundwater level measurement.|
 |**Required/Optional**|Optional|
 |**Unit/Format**|N/A|
+

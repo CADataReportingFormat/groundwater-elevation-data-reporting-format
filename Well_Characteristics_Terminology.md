@@ -1,6 +1,6 @@
 # Well Characteristics Reporting Format Terminology
 
-[Local Well Name](#local-well-name) | [State Well Number](#state-well-number) | [Site Code](#site-code) | [Permit Number](#permit-number) | [Local Permit Agency](#local-permit-agency) | [Latitude](#latitude) | [Longitude](#longitude) | [Coordinates Survey Date](#coordinates-survey-date) | [Coordinates Survey Time](#coordinates-survey-time) | [Coordinates Datum](#coordinates-datum) | [Coordinates Method](#coordinates-method) | [Coordinates Accuracy](#coordinates-accuracy) | [Coordinates Surveyor](#coordinates-surveyor) | [Coordinates Equipment](#coordinates-equipment) | [Coordinates Survey Field Notes](#coordinates-survey-field-notes) | [Reference Point Elevation (RPE)](#reference-point-elevation-(rpe)) | [Ground Surface Elevation (GSE)](#ground-surface-elevation-(gse)) | [Elevation Survey Date](#elevation-survey-date) | [Elevation Survey Time](#elevation-survey-time) | [Elevation Measurement Method](#elevation-measurement-method) | [Elevation Vertical Datum](#elevation-vertical-datum) | [Elevation Accuracy](#elevation-accuracy) | [Elevation Surveyor Name](#elevation-surveyor-name) | [Elevation Survey Field Notes](#elevation-survey-field-notes) | [Well Riser Height (RHT)](#well-riser-height-(rht)) | [Total Well Depth](#total-well-depth) | [Type of Opening](#type-of-opening) | [Depth to Top of Screen (1)...(10)](#depth-to-top-of-screen-(1)...(10)) | [Depth to Bottom of Screen (1)...(10)](#depth-to-bottom-of-screen-(1)...(10)) | [Well Casing Material](#well-casing-material) | [Well Casing Diameter](#well-casing-diameter) | [Well Slot Size](#well-slot-size) | [Well Status](#well-status) | [Well Use Type](#well-use-type) | [Well Completion Structure](#well-completion-structure) | [Well Completion Report Number](#well-completion-report-number) | [Well Completion Date](#well-completion-date) | [Well Location Description](#well-location-description) | [SGMA Monitoring Network](#sgma-monitoring-network) | [Additional Comments](#additional-comments) | 
+[Local Well Name](#local-well-name) | [State Well Number](#state-well-number) | [Site Code](#site-code) | [Permit Number](#permit-number) | [Local Permit Agency](#local-permit-agency) | [Latitude](#latitude) | [Longitude](#longitude) | [Coordinates Survey Date](#coordinates-survey-date) | [Coordinates Survey Time](#coordinates-survey-time) | [Coordinates Datum](#coordinates-datum) | [Coordinates Method](#coordinates-method) | [Coordinates Accuracy](#coordinates-accuracy) | [Coordinates Surveyor](#coordinates-surveyor) | [Surveyor Type](#surveyor-type) | [Coordinates Equipment](#coordinates-equipment) | [Coordinates Survey Field Notes](#coordinates-survey-field-notes) | [Reference Point Elevation (RPE)](#reference-point-elevation-(rpe)) | [Ground Surface Elevation (GSE)](#ground-surface-elevation-(gse)) | [Elevation Survey Date](#elevation-survey-date) | [Elevation Survey Time](#elevation-survey-time) | [Elevation Measurement Method](#elevation-measurement-method) | [Elevation Vertical Datum](#elevation-vertical-datum) | [Elevation Accuracy](#elevation-accuracy) | [Elevation Surveyor Name](#elevation-surveyor-name) | [Elevation Survey Field Notes](#elevation-survey-field-notes) | [Well Riser Height (RHT)](#well-riser-height-(rht)) | [Total Well Depth](#total-well-depth) | [Type of Opening](#type-of-opening) | [Depth to Top of Screen (1)...(10)](#depth-to-top-of-screen-(1)...(10)) | [Depth to Bottom of Screen (1)...(10)](#depth-to-bottom-of-screen-(1)...(10)) | [Well Casing Material](#well-casing-material) | [Well Casing Diameter](#well-casing-diameter) | [Well Slot Size](#well-slot-size) | [Well Status](#well-status) | [Well Use Type](#well-use-type) | [Well Completion Structure](#well-completion-structure) | [Well Completion Report Number](#well-completion-report-number) | [Well Completion Date](#well-completion-date) | [Well Location Description](#well-location-description) | [SGMA Monitoring Network](#sgma-monitoring-network) | [Additional Comments](#additional-comments) | 
 
 ### Local Well Name
 |**Attribute**|Local Well Name|
@@ -93,6 +93,13 @@
 |**Required/Optional**|Optional|
 |**Unit/Format**|N/A|
 
+### Survey Type
+|**Attribute**|Survey Type|
+|:----------------------------------------------------|:----------------------------------------------------|
+|**Definition**|The general description for the Survey. The initial Survey associated with a new well is always labeled Initial Elevation.|
+|**Required/Optional**|Optional|
+|**Unit/Format**|N/A|
+
 ### Coordinates Equipment
 |**Attribute**|Coordinates Equipment|
 |:----------------------------------------------------|:----------------------------------------------------|
@@ -118,7 +125,7 @@
 |**Attribute**|Ground Surface Elevation (GSE)|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Definition**|Elevation of the ground surface associated with the location of the well.|
-|**Required/Optional**|Optional|
+|**Required/Optional**|Required|
 |**Unit/Format**|feet|
 
 ### Elevation Survey Date
@@ -281,3 +288,4 @@
 |**Definition**|Any additional comments concerning well characteristics.|
 |**Required/Optional**|Optional|
 |**Unit/Format**|N/A|
+

@@ -4,9 +4,10 @@ This change log serves as documentation of the changes made to the data reportin
  - Minor = updates that modify text significantly (for example, a change in a term’s definition) within the data reporting format but not the overall structure of the reporting format.
  - Patch = updates that include very minor changes such as fixing a typo
 
- The latest release of all materials is v2.1.0. Refer to the sections below for information regarding each release.
-## v2.1.0
-The v2.1.0 data reporting formats and cross-walk tables incorporated feedback received from the Technical Working Group on v2.0.0. Relatively minor changes were incorporated into version 2.1.0 based on feedback received.
+The latest release of all materials is v2.1.1. Refer to the sections below for information regarding each release.
+
+## v2.1.1
+The v2.1.1 data reporting formats and cross-walk tables were modified purely from an editorial perspective to improve consistancy across these documents and with other documents that are part of the data reporting format versions. Thus, v2.1.1 is assumed to be a patch of the previous data reporting formats and cross-walk tables from the v2.1.0 release.
 
 Use the following links to download v2.0.0 word documents:
 [Groundwater Elevation Data Reporting Format]()
@@ -16,6 +17,9 @@ Use the following links to download v2.0.0 word documents:
 [Well Characteristics Data Reporting Format]()
 
 [Well Characteristics Cross-Walk Table]()
+
+## v2.1.0
+The v2.1.0 data reporting formats and cross-walk tables incorporated feedback received from the Technical Working Group on v2.0.0. Relatively minor changes were incorporated into version 2.1.0 based on feedback received.
 
 Word document versions containing tracked changes between v2.0.0 and v2.1.0 based on the feedback received from the technical working group can be downloaded from the following links:
 

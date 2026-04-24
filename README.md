@@ -1,4 +1,4 @@
-# California Groundwater Data Reporting Formats v 2.0.0
+# California Groundwater Data Reporting Formats v 2.1.1
 
 ## About the Reporting Format
 This GitHub repository provides a preliminary standardized reporting format for groundwater elevation data for additional inputs and feedback from the Technical Working Group. It has been collaboratively developed by the California Water Data Consortium, the Department of Water Resources (DWR), and the State Water Resources Control Board (State Board), in partnership with a Technical Working Team comprising various private, local, state, federal, non-profit, and academic organizations. The primary objective is to simplify the reporting process for local agencies, facilitate regulatory decision-making by consolidating existing reporting datasets, enhance the quality and consistency of data, and support local agency compliance with Sustainable Groundwater Management Act regulations. The repository includes a template for the reporting format, as well as documentation that describes how to use the format and the requirements for submitting data.

@@ -9,20 +9,19 @@ The latest release of all materials is v2.1.1. Refer to the sections below for i
 ## v2.1.1
 The v2.1.1 data reporting formats and cross-walk tables were modified purely from an editorial perspective to improve consistancy across these documents and with other documents that are part of the data reporting format versions. Thus, v2.1.1 is assumed to be a patch of the previous data reporting formats and cross-walk tables from the v2.1.0 release.
 
-Use the following links to download v2.0.0 word documents:
-[Groundwater Elevation Data Reporting Format]()
+Word document versions containing tracked changes between v2.1.0 and v2.1.1 based on the feedback received from the technical working group can be downloaded from the following links:
+[Groundwater Elevation Data Reporting Format - with Track Changes](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Proposed_GWE_Data_Format_Table_v2.1.1_TrackChanges.docx)
 
-[Groundwater Elevation Cross-Walk Table]()
+[Groundwater Elevation Cross-Walk Table - with Track Changes](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/GWE_XWalk_Table_v2.1.1_TrackChanges.docx)
 
-[Well Characteristics Data Reporting Format]()
+[Well Characteristics Data Reporting Format - with Track Changes](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Proposed_Well_Characteristics_Data_Format_Table_v2.1.1_TrackChanges.docx)
 
-[Well Characteristics Cross-Walk Table]()
+[Well Characteristics Cross-Walk Table - with Track Changes](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Well_Characteristics_XWalk_Table_v2.1.1_TrackChanges.docx)
 
 ## v2.1.0
 The v2.1.0 data reporting formats and cross-walk tables incorporated feedback received from the Technical Working Group on v2.0.0. Relatively minor changes were incorporated into version 2.1.0 based on feedback received.
 
 Word document versions containing tracked changes between v2.0.0 and v2.1.0 based on the feedback received from the technical working group can be downloaded from the following links:
-
 [Groundwater Elevation Data Reporting Format - with Track Changes](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/Proposed_GWE_Data_Format_Table_v2.1.0_TrackChanges.docx)
 
 [Groundwater Elevation Cross-Walk Table - with Track Changes](https://github.com/CADataReportingFormat/groundwater-elevation-data-reporting-format/raw/main/WordDocs/GWE_XWalk_Table_v2.1.0_TrackChanges.docx)
